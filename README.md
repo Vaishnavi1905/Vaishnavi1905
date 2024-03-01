@@ -1,5 +1,7 @@
-
+<h1 align="center">Hi 👋, I'm Vaishnavi Deshamne</h1>
 <h3 align="center">A passionate Computer Engineer from India</h3>
+
+
 
 <img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="Coding Girl" width="400">
 
